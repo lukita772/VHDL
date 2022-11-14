@@ -1,0 +1,4 @@
+set_io BA[0] 94
+set_io BA[1] 4
+set_io SE 31
+set_io Y 32
